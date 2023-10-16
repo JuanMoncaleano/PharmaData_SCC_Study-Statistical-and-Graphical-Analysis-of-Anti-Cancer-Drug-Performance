@@ -1,5 +1,9 @@
-# Module_5_Challenge
-Data Visualization
+# PharmaData_SCC_Study: Statistical and Graphical Analysis of Anti-Cancer Drug Performance
+
+## Project Overview
+This project aims to evaluate the effectiveness of the drug Capomulin against other treatment regimens in the fight against Squamous Cell Carcinoma (SCC), a commonly occurring form of skin cancer. We leverage data from a recent animal study, where 249 mice identified with SCC tumors were treated with various drug regimens. The study spanned 45 days, during which tumor development was observed and measured.
+
+## Data Visualization
 Based on the analysis of the data, here are three observations or inferences that can be made:
 
 Tumor Response to Capomulin: The line plot of tumor volume versus time point for a mouse treated with Capomulin showed a consistent decrease in tumor volume over time. This suggests that Capomulin may be effective in reducing tumor size in mice with squamous cell carcinoma.
